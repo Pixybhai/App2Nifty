@@ -1,0 +1,10 @@
+streamlit
+streamlit-autorefresh
+yfinance
+pandas
+numpy
+scikit-learn
+joblib
+vaderSentiment
+feedparser
+plotly
